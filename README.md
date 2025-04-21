@@ -18,7 +18,9 @@ Tech Stacks:-
 ![Git](https://img.shields.io/badge/Tool-Git-F05032?logo=git)
 ![GitHub](https://img.shields.io/badge/Tool-GitHub-181717?logo=github)
 
-### 📊 Top Languages
+### 🚀 Visitors
+![Visitor Badge](https://komarev.com/ghpvc/?username=aksharapandey&style=flat-square)
+
 ### 📊 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aksharapandey&layout=compact)
 
