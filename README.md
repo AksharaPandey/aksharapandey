@@ -17,6 +17,9 @@ Tech Stacks:-
 ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-4169E1?logo=postgresql)
 ![Git](https://img.shields.io/badge/Tool-Git-F05032?logo=git)
 ![GitHub](https://img.shields.io/badge/Tool-GitHub-181717?logo=github)
+
+### 📊 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?aksharapandey&layout=compact)
 <!--
 
 **AksharaPandey/aksharapandey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
