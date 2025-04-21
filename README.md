@@ -33,7 +33,9 @@ Tech Stacks:-
 ### 🔭 My Contributions
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aksharapandey&theme=dark)
 
-[![Akshara's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=aksharapandey&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+What I am up to?
+[![Akshara's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=aksharapandey&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 <!--
