@@ -19,6 +19,10 @@ Tech Stacks:-
 ![Git](https://img.shields.io/badge/Tool-Git-F05032?logo=git)
 ![GitHub](https://img.shields.io/badge/Tool-GitHub-181717?logo=github)
 
+
+### 📈 GitHub Stats
+![Akshara's Github Stats](https://github-readme-stats.vercel.app/api?username=aksharapandey&show_icons=true&theme=radical)
+
 ### 🚀 Visitors
 ![Visitor Badge](https://komarev.com/ghpvc/?username=aksharapandey&style=flat-square)
 
