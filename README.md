@@ -31,7 +31,8 @@ Tech Stacks:-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aksharapandey&layout=compact)
 
 ### 🔭 My Contributions
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aksharapandey&theme=dark)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AksharaPandey&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
 
 What I am up to?
 [![Akshara's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=aksharapandey&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
