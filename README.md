@@ -33,6 +33,22 @@ Tech Stacks:-
 ![Linux](https://img.shields.io/badge/Tool-Linux-FCC624?logo=linux)
 ![AWS](https://img.shields.io/badge/Cloud-AWS-232F3E?logo=amazonaws)
 
+## Programming Languages:-
+![C++](https://img.shields.io/badge/Language-C++-00599C?logo=c%2b%2b)
+![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python)
+![C](https://img.shields.io/badge/Language-C-A8B9CC?logo=c)
+![Java](https://img.shields.io/badge/Language-Java-007396?logo=java)
+![JavaScript](https://img.shields.io/badge/Language-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+
+## Find me here:-
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/aksharapandey23)
+[![Gmail](https://img.shields.io/badge/Email-Gmail-D14836?logo=gmail&logoColor=white)](mailto:akp714200@gmail.com)
+[![LeetCode](https://img.shields.io/badge/Practice-LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/akshara0923/)
+[![CodeStudio](https://img.shields.io/badge/Code360-Naukri-brightgreen?logo=naukri&logoColor=white)](https://www.naukri.com/code360/profile/AksharaPandey)
+[![GeeksforGeeks](https://img.shields.io/badge/Practice-GFG-0F9D58?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/akp71jmol/)
+
+
 
 
 ### 📈 GitHub Stats
