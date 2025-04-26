@@ -18,6 +18,7 @@ Tech Stacks:-
 ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-4169E1?logo=postgresql)
 ![Git](https://img.shields.io/badge/Tool-Git-F05032?logo=git)
 ![GitHub](https://img.shields.io/badge/Tool-GitHub-181717?logo=github)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 
 
 ### 📈 GitHub Stats
@@ -36,6 +37,11 @@ Tech Stacks:-
 
 What I am up to?
 [![Akshara's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=aksharapandey&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)
+![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)
 
 
 
