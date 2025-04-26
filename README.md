@@ -12,13 +12,27 @@
 My Goal is to solve problems by building visually appealing stuff.
 Tech Stacks:-
 ![React](https://img.shields.io/badge/Frontend-React-blue?logo=react)
+![Next.js](https://img.shields.io/badge/Frontend-Next.js-black?logo=next.js)
+![Redux](https://img.shields.io/badge/Frontend-Redux-764ABC?logo=redux)
+![TypeScript](https://img.shields.io/badge/Frontend-TypeScript-3178C6?logo=typescript)
 ![TailwindCSS](https://img.shields.io/badge/Frontend-TailwindCSS-06B6D4?logo=tailwindcss)
 ![Java](https://img.shields.io/badge/Backend-Java-007396?logo=java)
+![Node.js](https://img.shields.io/badge/Backend-Node.js-339933?logo=nodedotjs)
+![Express.js](https://img.shields.io/badge/Backend-Express.js-000000?logo=express)
 ![Spring Boot](https://img.shields.io/badge/Backend-SpringBoot-6DB33F?logo=springboot)
 ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-4169E1?logo=postgresql)
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-47A248?logo=mongodb)
+![MySQL](https://img.shields.io/badge/Database-MySQL-4479A1?logo=mysql)
 ![Git](https://img.shields.io/badge/Tool-Git-F05032?logo=git)
 ![GitHub](https://img.shields.io/badge/Tool-GitHub-181717?logo=github)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Tool-Docker-2496ED?logo=docker)
+![Postman](https://img.shields.io/badge/Tool-Postman-FF6C37?logo=postman)
+![VS Code](https://img.shields.io/badge/Tool-VSCode-007ACC?logo=visualstudiocode)
+![Figma](https://img.shields.io/badge/Tool-Figma-F24E1E?logo=figma)
+
+![Linux](https://img.shields.io/badge/Tool-Linux-FCC624?logo=linux)
+![AWS](https://img.shields.io/badge/Cloud-AWS-232F3E?logo=amazonaws)
+
 
 
 ### 📈 GitHub Stats
