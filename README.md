@@ -5,7 +5,9 @@
 🛠️ Tech Stack: JavaScript Frameworks | Spring Boot | MERN | Web3  
 🌱 Currently learning and growing every day!  
 🤝 Open to collaboration on creative and impactful projects.  
-📫 Connect with me:- https://www.linkedin.com/in/aksharapandey23/
+📫 Connect with me:- https://www.linkedin.com/in/aksharapandey23/ , akp714200@gmail.com
+
+
 
 💬 Ask me about Data Structures, System Design
 ---
